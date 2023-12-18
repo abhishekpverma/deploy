@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: yellow; */
+    font-family: montserrat;
+}
+
+.app{
+    background-color: rgb(255, 129, 129);
+    padding: 20vw;
+}

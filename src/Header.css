@@ -1,0 +1,12 @@
+.btn{
+    background-color: rgb(40, 40, 40);
+    padding: 2vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn a{
+    text-decoration: none;
+    color: white;
+    font-size: 2px;
+}
